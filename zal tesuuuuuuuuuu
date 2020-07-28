@@ -389,8 +389,8 @@ http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/6670.m3u8
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/6673.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD+" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-bbc-earth-hd-logo-300x300.jpg" group-title="INFOTAINMENT",BBC Earth HD+
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/6573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="INFOTAINMENT",Animal Planet HD
-http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/6575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD---" tvg-logo="https://w7.pngwing.com/pngs/288/60/png-transparent-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue-text-thumbnail.png" group-title="INFOTAINMENT",Discovery Bangla HD---
+http://bdiptv.myftp.biz:25461/raanin/HfjArtFEu8/6575
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://img.favpng.com/13/13/4/history-television-channel-logo-television-show-png-favpng-FTKBPqwurbkF0U2qFKaMGT68u.jpg" group-title="INFOTAINMENT",HISTORY HD
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/6574.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD " tvg-logo="" group-title="INFOTAINMENT",NAT GEO HD 
