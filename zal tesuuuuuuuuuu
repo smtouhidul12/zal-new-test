@@ -1224,6 +1224,151 @@ http://bdiptv.myftp.biz:25461/live/trailerRock/10/9362.m3u8
 http://bdiptv.myftp.biz:25461/live/trailerRock/10/9363.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VoA TV" tvg-logo="https://i.imgur.com/53N0NTK.png" group-title="BDIX 5",VoA TV
 http://bdiptv.myftp.biz:25461/live/trailerRock/10/9364.m3u8
+
+######
+
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/bWGqJhm.png",BTV 
+http://103.141.66.36/bpk-tv/10330/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/ZJra7BS.jpg",BTV 
+http://103.141.66.36/bpk-tv/10335/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/zsahmn3.jpg",MAASRANGA TV HD 
+http://103.141.66.36/bpk-tv/10154/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/hiXQiMa.jpg",Khusboo Bangla 
+http://103.141.66.36/bpk-tv/10139/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/w4iXw4C.jpg",R Plus News 
+http://103.141.66.36/bpk-tv/10078/default/index.m3u8?=m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/QOadxzR.png",Bangla Talkies 
+http://103.141.66.36/bpk-tv/10081/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/WvrfVsv.jpg",Zee Bangla Cinema 
+http://103.141.66.36/bpk-tv/10263/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/RI1G0qY.jpg",And TV
+http://103.141.66.36/bpk-tv/10028/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/xN5TNtJ.png",Zee TV HD
+http://103.141.66.36/bpk-tv/10403/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/wXSRiun.jpg",Dabaang
+http://103.141.66.36/bpk-tv/10301/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/NXL6ftL.jpg",Polymar
+http://103.141.66.36/bpk-tv/10303/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/bQfQLP1.jpg",a+TV
+http://103.141.66.36/bpk-tv/10079/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/qy87WEK.jpg",Ary zindagi
+http://103.141.66.36/bpk-tv/10091/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/0kVzKa6.jpg",Ary Digital Asia
+http://103.141.66.36/bpk-tv/10090/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/wY41F5k.png",Express TV
+http://103.141.66.36/bpk-tv/10235/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/kfimejF.jpg",PTV Home
+http://103.141.66.36/bpk-tv/10253/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/gkp0htr.jpg",Zee Cafe
+http://103.141.66.36/bpk-tv/10229/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/TCRYibC.png",ABZY MOVIES
+http://103.141.66.36/bpk-tv/10076/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/TkRBcZX.jpg",MANORANJAN Grand
+http://103.141.66.36/bpk-tv/10103/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/VcVtzDM.png",B4U Kadak
+http://103.141.66.36/bpk-tv/10312/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/bClqIpU.png",Sameroo
+http://103.141.66.36/bpk-tv/10313/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/M1v4M0v.jpg",Moon
+http://103.141.66.36/bpk-tv/10164/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/J7Oevxk.png",Kairali Movies
+http://103.141.66.36/bpk-tv/10286/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/NvVbPky.png",Sony Ten 2 HD
+http://103.141.66.36/bpk-tv/10480/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/jBpJrGR.png",Euro News 
+http://103.141.66.36/bpk-tv/10211/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/RiIKPV3.png",GEO news
+http://103.141.66.36/bpk-tv/10288/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/RiIKPV3.png",GEO Tez
+http://103.141.66.36/bpk-tv/10262/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Zee_News.png",Zee News
+http://103.141.66.36/bpk-tv/10285/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/KYqVK91.png",AAJ TAK
+http://103.141.66.36/bpk-tv/10311/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/CrvJkdS.png",Zee ETC
+http://103.141.66.36/bpk-tv/10007/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/Eptm0IX.jpg",Dhamaal
+http://103.141.66.36/bpk-tv/10504/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/8GYDctq.jpg",Sangeet Marathi
+http://103.141.66.36/bpk-tv/10334/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/kuyqwRZ.png",MK Tunes
+http://103.141.66.36/bpk-tv/10165/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." tvg-logo="https://i.imgur.com/lM6aAEj.jpg",Ary Musik
+http://103.141.66.36/bpk-tv/10089/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ZEE NEWS
+http://103.141.66.36/bpk-tv/10285/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ZEE ACTION
+http://103.141.66.36/bpk-tv/10337/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." B4U MOVIES
+http://103.141.66.36/bpk-tv/10331/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ,BD: G TV
+http://103.141.66.36/bpk-tv/10328/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." MUSIC INDIA
+http://103.141.66.36/bpk-tv/10315/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." & FLIX
+http://103.141.66.36/bpk-tv/10304/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." 9XM
+http://103.141.66.36/bpk-tv/10283/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." B4U MUSIC
+http://103.141.66.36/bpk-tv/10282/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." BIG MAGIC
+http://103.141.66.36/bpk-tv/10280/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." DD1
+http://103.141.66.36/bpk-tv/10265/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ABP NEWS
+http://103.141.66.36/bpk-tv/10252/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." HUM SITERY
+http://103.141.66.36/bpk-tv/10241/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." HUM MASHALA
+http://103.141.66.36/bpk-tv/10240/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ZEE CAFE
+http://103.141.66.36/bpk-tv/10229/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." MASTII
+http://103.141.66.36/bpk-tv/10210/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." & PICTURES
+http://103.141.66.36/bpk-tv/10190/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." COLORS HD
+http://103.141.66.36/bpk-tv/10189/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ARY FAMILY
+http://103.141.66.36/bpk-tv/10186/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ZEE BANGLA
+http://103.141.66.36/bpk-tv/10185/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." R. BHARAT
+http://103.141.66.36/bpk-tv/10184/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." &TV HD
+http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ,ME: ZEE CINEMA
+http://103.141.66.36/bpk-tv/10180/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." MTV BEATS
+http://103.141.66.36/bpk-tv/10178/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." CARE WORLD
+http://103.141.66.36/bpk-tv/10176/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." NICK
+http://103.141.66.36/bpk-tv/10152/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." VH1
+http://103.141.66.36/bpk-tv/10151/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." 9XM JHAKASS
+http://103.141.66.36/bpk-tv/10141/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." MOVIE PLUS
+http://103.141.66.36/bpk-tv/10138/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ENTER 10
+http://103.141.66.36/bpk-tv/10137/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." MONURANJAN TV
+http://103.141.66.36/bpk-tv/10136/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." MONURANJAN MOVIES
+http://103.141.66.36/bpk-tv/10127/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." MTV
+http://103.141.66.36/bpk-tv/10110/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ZEE
+http://103.141.66.36/bpk-tv/10106/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ZING
+http://103.141.66.36/bpk-tv/10102/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." PTV WORLD
+http://103.141.66.36/bpk-tv/10101/default/index.m3u8
+#EXTINF:-1 group-title="BDIX 6." ZEE CINEMA HD
+http://103.141.66.36/bpk-tv/10430/default/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TRAIN TO BUSIAN" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL7v79L_4drBAwzvXKCaTms0G9gx86N-pbxTCduLStbkr_vZ6M" group-title="DUBBED MOVIES",TRAIN TO BUSIAN
 http://bdiptv.myftp.biz:25461/movie/trailerRock/10/6843.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Parasite" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg" group-title="DUBBED MOVIES",Parasite
