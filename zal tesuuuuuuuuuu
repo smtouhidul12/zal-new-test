@@ -602,6 +602,7 @@ http://bdiptv.myftp.biz:25461/live/trailerRock/10/6826.m3u8
 http://bdiptv.myftp.biz:25461/live/trailerRock/10/6829.m3u8
 
 %%%%%%%%%%
+
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",ZEE CINEMA HD
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10174.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE YAVA" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",ZEE YAVA
@@ -630,7 +631,7 @@ http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10185.m3u8
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10186.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="& PICTURE" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",& PICTURE
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",21
+#EXTINF:-1 tvg-id="" tvg-name="& Flix " tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",& Flix 
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10188.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CLASSIC" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",ZEE CLASSIC
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10189.m3u8
@@ -648,13 +649,13 @@ http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10194.m3u8
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: SONY SAB HD" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",IN: SONY SAB HD
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="9xm" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",9xm
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10197.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC 2" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",MUSIC 2
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC 3" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",MUSIC 3
+#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",9x jhakaas
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC 4" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",MUSIC 4
+#EXTINF:-1 tvg-id="" tvg-name="9x jalwa" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",9x jalwa
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BIHAR JHARKHAND" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",ZEE BIHAR JHARKHAND
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10201.m3u8
@@ -672,37 +673,36 @@ http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10206.m3u8
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",WION
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="7" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",7
+#EXTINF:-1 tvg-id="" tvg-name="& XPLOR HD" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",& XPLOR HD
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="8" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",8
+#EXTINF:-1 tvg-id="" tvg-name="& TV HD" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",& TV HD
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",9
+#EXTINF:-1 tvg-id="" tvg-name=" MUSIC 5" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ", MUSIC 5
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="_30" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",_30
+#EXTINF:-1 tvg-id="" tvg-name="NEWS INDIA" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",NEWS INDIA
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="_67" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",_67
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC *" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",MUSIC *
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="_68" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",_68
+#EXTINF:-1 tvg-id="" tvg-name="EPIC" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",EPIC
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="_69" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",_69
+#EXTINF:-1 tvg-id="" tvg-name="E 24" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",E 24
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="_70" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",_70
+#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",BOOGLE BOLLYWOOD
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="_5" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",_5
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL " tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",ZEE TAMIL 
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="_4" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",_4
+#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS 2" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",ZEE NEWS 2
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="_6" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",_6
+#EXTINF:-1 tvg-id="" tvg-name="KRISNA TV " tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",KRISNA TV 
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="41" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",41
+#EXTINF:-1 tvg-id="" tvg-name="ZEE MUSIC CO HD " tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",ZEE MUSIC CO HD 
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="71" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",71
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ENGLISH" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",MUSIC ENGLISH
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="011" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",011
+#EXTINF:-1 tvg-id="" tvg-name="LIVING INDIA " tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",LIVING INDIA 
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11111" tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",11111
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ENGLISH " tvg-logo="" group-title="INDIAN TV CHANNELS MIX ",MUSIC ENGLISH 
 http://bdiptv.myftp.biz:25461/live/raanin/HfjArtFEu8/10223.m3u8
-
 
 
 
